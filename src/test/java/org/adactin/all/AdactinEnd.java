@@ -82,6 +82,12 @@ public class AdactinEnd extends BaseClass {
 		WebElement booknow = four.getBooknow();
 		baseclass.btnClick(booknow);
 		
+		Hello
+		config
+		save
+		done
+		all
+		
 		
 }
 	
